@@ -3,7 +3,7 @@ package nuage_v3_2
 import (
 	"encoding/json"
 	"fmt"
-	nuage "nuagegeneric"
+	"nuage"
 
 	log "github.com/Sirupsen/logrus"
 )
